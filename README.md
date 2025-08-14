@@ -19,9 +19,7 @@ soc-ip-checker/
 ├── report.csv # результат анализа
 └── README.md
 
-yaml
-Копировать
-Редактировать
+
 
 ---
 
