@@ -53,4 +53,4 @@ SOC-аналитиков (Tier 1+)
 Лабораторий по кибербезопасности
 
 Автоматизации обогащения логов и инцидентов
-
+![screenshot] : (https://github.com/Artur-003/soc-ip-checker/blob/02c6c6d9b5e1655727d3dd193dbe5609243fa46d/screenshot.png)
